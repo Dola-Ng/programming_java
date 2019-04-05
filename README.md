@@ -1,8 +1,8 @@
-# programming_java
-107-2
-Ans for lab and hw of 107-2 Java Programming
-To alleviate the burden of future students
-You are Welcome
+# 107-2 Java_Programming
+
+- Ans for lab and hw of 107-2 Java Programming
+- To alleviate the burden of future students
+- You are Welcome
 
 # Week1 
 # Week2
